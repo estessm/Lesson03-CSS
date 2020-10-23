@@ -1,0 +1,51 @@
+* {
+  border: 1px dashed yellow;
+}
+
+body {
+  font-size: 16px;
+  color: blue;
+  background-color: dimgrey;
+}
+
+p {
+  color: yellow;
+  background-color: black;
+}
+
+.first-article {
+  width: 16rem;
+  color: red
+}
+
+.another-paragraph:hover {
+  background: rgba(255, 125, 125, 0.4);
+  fontsize: 2rem;
+}
+
+.main-paragraph {
+  width: 16rem;
+  text-align: justify;
+  padding: 4rem;
+  border: 6px solid blue;
+  margin: 12px;
+}
+
+a[href="../../portfolio/index.html] {
+  color: DimGrey;
+  background-color: black;
+}
+
+img.w3cimage {
+  border-style: solid;
+  border-color: orange
+}
+
+p {
+  color: orange;
+  background-color: red;
+}
+
+span {
+  font-size: 3rem;
+}
